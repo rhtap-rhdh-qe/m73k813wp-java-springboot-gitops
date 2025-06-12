@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: m73k813wp-java-springboot-repository
+spec:
+  url: https://github.com/rhtap-rhdh-qe/m73k813wp-java-springboot
